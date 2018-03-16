@@ -1,5 +1,5 @@
-# lamda-nodejs-sequelize
-Implement nodejs, sequelize and AWS lamda
+# lambda-nodejs-sequelize
+Implement nodejs, sequelize and AWS lambda
 
 ```
 // GET: /api/users/2
